@@ -1,0 +1,14 @@
+body{
+   
+    text-align: center;
+    height: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#lord{
+    background-image: url("krishna.gif");
+    background-size: cover;
+    width:100%;
+    background-repeat: no-repeat;
+}
+

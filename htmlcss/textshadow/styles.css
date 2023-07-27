@@ -1,0 +1,14 @@
+body{
+    letter-spacing: 4px;
+    background: white;
+    color: white;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    margin-top: 300px;
+    
+
+}
+h1{
+    font-size: 80px;
+    text-shadow: 0px 0px 20px black;
+}

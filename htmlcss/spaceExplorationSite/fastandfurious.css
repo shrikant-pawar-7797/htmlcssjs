@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Broxy;
+    src: url("Broxy.ttf");
+}
+h1{
+    text-align: center;
+    font-size: 75px;
+    font-family: Broxy;
+    margin-top: 200px;
+    color: white;
+}
+body{
+    background-image: url("fastandfurious.jpg");
+    background-size: cover;
+
+}
